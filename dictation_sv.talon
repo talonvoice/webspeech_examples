@@ -1,7 +1,7 @@
 mode: dictation
 language: sv
 -
-Befehlsmodus:
+kommandoläge:
     mode.disable("dictation")
     mode.disable("user.swedish")
     mode.enable("command")
