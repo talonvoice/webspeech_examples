@@ -27,3 +27,23 @@ swedish mode:
     mode.disable("command")
     mode.enable("dictation")
     mode.enable("user.swedish")
+
+english mode:
+    mode.disable("command")
+    mode.enable("dictation")
+    mode.enable("user.english")
+
+japanese mode:
+    mode.disable("command")
+    mode.enable("dictation")
+    mode.enable("user.japanese")
+
+dutch mode:
+    mode.disable("command")
+    mode.enable("dictation")
+    mode.enable("user.dutch")
+
+mandarin mode:
+    mode.disable("command")
+    mode.enable("dictation")
+    mode.enable("user.mandarin")
