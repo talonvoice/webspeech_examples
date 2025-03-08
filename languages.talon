@@ -47,3 +47,8 @@ mandarin mode:
     mode.disable("command")
     mode.enable("dictation")
     mode.enable("user.mandarin")
+
+romanian mode:
+    mode.disable("command")
+    mode.enable("dictation")
+    mode.enable("user.romanian")
