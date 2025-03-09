@@ -3,7 +3,7 @@ language: ro
 -
 mod comandă:
     mode.disable("dictation")
-    mode.disable("user.german")
+    mode.disable("user.romanian")
     mode.enable("command")
 
 <phrase>: insert("{phrase} ")
