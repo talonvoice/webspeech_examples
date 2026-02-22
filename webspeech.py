@@ -2,6 +2,7 @@
 # using one of the other ones as an example
 
 languages = """
+cs_CZ czech
 de_DE german
 en_EN english
 es_ES spanish
